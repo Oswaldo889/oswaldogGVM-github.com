@@ -1,2 +1,2 @@
-# oswaldogGVM-github.com
+Pagina oficial de Oswaldo
 Mi pagina web
